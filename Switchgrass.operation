@@ -1,0 +1,372 @@
+PLANTING
+YEAR                1
+DOY                 103
+END_DOY             -999
+MIN_SMC             0.0
+MIN_SOIL_TEMP       0.0
+CROP                Switchgrass
+USE_AUTO_IRR        0
+USE_AUTO_FERT       0
+FRACTION            1.0
+CLIPPING_START      1
+CLIPPING_END        366
+
+FIXED_FERTILIZATION
+YEAR                3
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                4
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                5
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                6
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                7
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                8
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                9
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                10
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                11
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                12
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                13
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                14
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                15
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                16
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                17
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                18
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                19
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                20
+DOY                 100
+SOURCE              UreaAmmoniumNitrate
+MASS                50          # kg/ha
+FORM                Liquid
+METHOD              Broadcast
+LAYER               1
+C_Organic           0
+C_Charcoal          0
+N_Organic           0
+N_Charcoal          0
+N_NH4               0.75        # kg/kg
+N_NO3               0.25        # kg/kg
+P_Organic           0           # kg/kg
+P_CHARCOAL          0           # kg/kg
+P_INORGANIC         0           # kg/kg
+K                   0           # kg/kg
+S                   0           # kg/kg
