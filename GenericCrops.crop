@@ -56,7 +56,7 @@ COMMERCIAL_YIELD_MOISTURE                   0.00
 STANDING_RESIDUE_AT_HARVEST                 50.00       # (%)
 RESIDUE_REMOVED                             95.00       # (%)
 CLIPPING_BIOMASS_THRESHOLD_UPPER            999         # (Mg/ha)
-CLIPPING_BIOMASS_THRESHOLD_LOWER            0.50        # (Mg/ha)
+CLIPPING_BIOMASS_THRESHOLD_LOWER            999         # (Mg/ha)
 HARVEST_TIMING                              110         # (%)
 CLIPPING_BIOMASS_DESTINY                    REMOVE
 MIN_TEMPERATURE_FOR_TRANSPIRATION           7.00        # (degree C)

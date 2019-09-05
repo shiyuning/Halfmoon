@@ -2,6 +2,7 @@ PLANTING
 YEAR                1
 DOY                 103
 END_DOY             -999
+MAX_SMC             -999
 MIN_SMC             0.0
 MIN_SOIL_TEMP       0.0
 CROP                Switchgrass
